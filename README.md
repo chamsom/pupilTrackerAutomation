@@ -22,14 +22,14 @@ Still needs fixing to analyze a custom image. We are unsure as to why the method
 
 **cv2.HOUGH_GRADIENT** Define the detection method
 
-**dp** = 2: The inverse ratio of resolution
+**dp** = 2 The inverse ratio of resolution
 
 **min_dist** = 50 Minimum distance between detected centers
 
-**param1** = 30: Upper threshold for the internal Canny edge detector
+**param1** = 30 Upper threshold for the internal Canny edge detector
 
-**param2** = 195: Threshold for center detection.
+**param2** = 195 Threshold for center detection.
 
-**minRadius** = 100: Minimum radio to be detected. If unknown, put zero as default
+**minRadius** = 100 Minimum radio to be detected. If unknown, put zero as default
 
-**maxRadius** = 200: Maximum radius to be detected. If unknown, put zero as default
+**maxRadius** = 200 Maximum radius to be detected. If unknown, put zero as default
