@@ -18,9 +18,9 @@ Still needs fixing to analyze a custom image. We are unsure as to why the method
 
 ## Description of the parameters for the cv2.HoughCircles function (Note that these parameters will have to be manually adjusted per frame in order to achieve optimal pupil fit)
 
-**img:** Input image (grayscale)
+**img** Input image (grayscale)
 
-**cv2.HOUGH_GRADIENT:** Define the detection method
+**cv2.HOUGH_GRADIENT** Define the detection method
 
 **dp** = 2: The inverse ratio of resolution
 
